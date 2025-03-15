@@ -1,0 +1,40 @@
+
+        body {
+            background-color: black;
+            color: aliceblue;
+        }
+
+        header {
+            text-align: center;
+        }
+
+        h1 {
+            font-family: Calibri;
+        }
+
+        .aaaa {
+            color: aqua;
+        }
+
+        .btn {
+            font-size: 25px;
+            border: none;
+            background-color: aqua;
+            color: black;
+            padding: 30px 60px;
+            margin-right: 10px;
+            margin-bottom: 20px;
+            border-radius: 25px;
+            cursor: pointer;
+        }
+
+        .imagem {
+            border-radius: 20px;
+        }
+
+        .center {
+            text-align: center;
+        }
+        .conversa {
+            font-size: 10px;
+        }
